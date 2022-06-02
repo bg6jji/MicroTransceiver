@@ -1,7 +1,4 @@
 # MicroTransceiver for 3 band
-![手持照片](https://github.com/bg6jji/MicroTransceiver/blob/main/Photo/%E6%89%8B%E6%8C%81.jpg)
-
-![特写照片](https://github.com/bg6jji/MicroTransceiver/blob/main/Photo/%E7%89%B9%E5%86%99.jpg)
 
 源项目地址https://github.com/threeme3/usdx
 
@@ -15,3 +12,7 @@
 + 2、修改LPF继电器波段切换定义
 + 3、增加I/Q输出 和AUDIO切换继电器
 + 4、加入CW TONE音量调节
+
+![手持照片](https://github.com/bg6jji/MicroTransceiver/blob/main/Photo/%E6%89%8B%E6%8C%81.jpg)
+
+![特写照片](https://github.com/bg6jji/MicroTransceiver/blob/main/Photo/%E7%89%B9%E5%86%99.jpg)
