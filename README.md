@@ -12,6 +12,7 @@
 + 2、修改LPF继电器波段切换定义
 + 3、增加I/Q输出 和AUDIO切换继电器
 + 4、加入CW TONE音量调节
++ 5、调整编码器速度为2倍速
 
 ![手持照片](https://github.com/bg6jji/MicroTransceiver/blob/main/Photo/%E6%89%8B%E6%8C%81.jpg)
 
