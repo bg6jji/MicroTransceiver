@@ -17,3 +17,6 @@
 ![手持照片](https://github.com/bg6jji/MicroTransceiver/blob/main/Photo/%E6%89%8B%E6%8C%81.jpg)
 
 ![特写照片](https://github.com/bg6jji/MicroTransceiver/blob/main/Photo/%E7%89%B9%E5%86%99.jpg)
+
+
+#声明,位于AliExpress 的 Aliexpress RC Toy Store 店铺不是由我提供的产品及技术支持，未经授权。
