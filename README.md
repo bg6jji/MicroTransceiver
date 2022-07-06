@@ -14,8 +14,8 @@
 + 4、加入CW TONE音量调节
 + 5、调整编码器速度为2倍速
 
-![正面照](https://github.com/bg6jji/MicroTransceiver/blob/main/Photo/front.jpg)
+![正面照](https://github.com/bg6jji/MicroTransceiver/blob/main/Photo/front.jpg "Front Side")
 
-![顶部接口照片](https://github.com/bg6jji/MicroTransceiver/blob/main/Photo/top%20side.jpg)
+![顶部接口照片](https://github.com/bg6jji/MicroTransceiver/blob/main/Photo/top%20side.jpg "Top Side")
 
-![底部接口照片](https://github.com/bg6jji/MicroTransceiver/blob/main/Photo/bottom%20side.jpg)
+![底部接口照片](https://github.com/bg6jji/MicroTransceiver/blob/main/Photo/bottom%20side.jpg "Bottom Side")
