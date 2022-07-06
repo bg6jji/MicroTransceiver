@@ -1,4 +1,4 @@
-# MicroTransceiver for 3 band
+# MicroTransceiver
 
 源项目地址https://github.com/threeme3/usdx
 
