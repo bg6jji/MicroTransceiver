@@ -19,3 +19,5 @@
 ![顶部接口照片](https://github.com/bg6jji/MicroTransceiver/blob/main/Photo/top%20side.jpg "Top Side")
 
 ![底部接口照片](https://github.com/bg6jji/MicroTransceiver/blob/main/Photo/bottom%20side.jpg "Bottom Side")
+
+![BNC接口的主机](https://github.com/bg6jji/MicroTransceiver/blob/main/Photo/MicroTransceiver_bnc.jpg "BNC Connector")
