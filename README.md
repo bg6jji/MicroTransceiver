@@ -24,4 +24,4 @@
 
 
 
-推荐卖家: ![Ebay - yrea4536](https://www.ebay.com/itm/354213207158 "yrea4536")
+推荐卖家: [Ebay - yrea4536](https://www.ebay.com/itm/354213207158)
