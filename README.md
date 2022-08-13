@@ -21,3 +21,7 @@
 ![底部接口照片](https://github.com/bg6jji/MicroTransceiver/blob/main/Photo/bottom%20side.jpg "Bottom Side")
 
 ![BNC接口的主机](https://github.com/bg6jji/MicroTransceiver/blob/main/Photo/MicroTransceiver_bnc.jpg "BNC Connector")
+
+
+
+推荐卖家: ![Ebay - yrea4536](https://www.ebay.com/itm/354213207158 "yrea4536")
