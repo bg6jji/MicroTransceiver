@@ -2,7 +2,7 @@
 
 源项目地址https://github.com/threeme3/usdx
 
-推荐卖家: [Ebay - yrea4536](https://www.ebay.com/itm/354213207158)
+
 
 这是3波段电台的源代码，我修改了一些小细节
 
